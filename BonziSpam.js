@@ -1,0 +1,1 @@
+javascript:setInterval(function(){socket.emit('talk', {text:'test '})},1000);
